@@ -13,7 +13,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## 'Invalid Request' Error
 
-If you're getting invalid request error in your application, kindly go through this issue - (https://github.com/rohitnandurkar/Recommendation-System)
+If you're getting invalid request error in your application, kindly go through this issue -(https://github.com/Vaibhavme22/Recommendation-system/blob/main/requirements.txt)
 
 ## How to get the API key?
 
